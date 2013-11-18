@@ -10,7 +10,7 @@ Becoming a Member of NumFOCUS
 
 The NumFOCUS Foundation was formed in 2012 to "promote the use of
 accessible and reproducible computing in science and technology." Much
-of this effort centers around the use of Python and it’s tools.
+of this effort centers around the use of Python and its tools.
 
 NumFOCUS is excited to announce membership is now open. The involvement of the
 community is vital in helping to help raise the visibility of Python and its
